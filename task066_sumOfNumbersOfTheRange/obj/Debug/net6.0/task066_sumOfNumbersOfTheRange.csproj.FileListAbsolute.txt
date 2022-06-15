@@ -1,0 +1,15 @@
+/Users/carrie/Documents/maxim_stoma/geek_brains/homework/homework_9/task066_sumOfNumbersOfTheRange/bin/Debug/net6.0/task066_sumOfNumbersOfTheRange
+/Users/carrie/Documents/maxim_stoma/geek_brains/homework/homework_9/task066_sumOfNumbersOfTheRange/bin/Debug/net6.0/task066_sumOfNumbersOfTheRange.deps.json
+/Users/carrie/Documents/maxim_stoma/geek_brains/homework/homework_9/task066_sumOfNumbersOfTheRange/bin/Debug/net6.0/task066_sumOfNumbersOfTheRange.runtimeconfig.json
+/Users/carrie/Documents/maxim_stoma/geek_brains/homework/homework_9/task066_sumOfNumbersOfTheRange/bin/Debug/net6.0/task066_sumOfNumbersOfTheRange.dll
+/Users/carrie/Documents/maxim_stoma/geek_brains/homework/homework_9/task066_sumOfNumbersOfTheRange/bin/Debug/net6.0/task066_sumOfNumbersOfTheRange.pdb
+/Users/carrie/Documents/maxim_stoma/geek_brains/homework/homework_9/task066_sumOfNumbersOfTheRange/obj/Debug/net6.0/task066_sumOfNumbersOfTheRange.csproj.AssemblyReference.cache
+/Users/carrie/Documents/maxim_stoma/geek_brains/homework/homework_9/task066_sumOfNumbersOfTheRange/obj/Debug/net6.0/task066_sumOfNumbersOfTheRange.GeneratedMSBuildEditorConfig.editorconfig
+/Users/carrie/Documents/maxim_stoma/geek_brains/homework/homework_9/task066_sumOfNumbersOfTheRange/obj/Debug/net6.0/task066_sumOfNumbersOfTheRange.AssemblyInfoInputs.cache
+/Users/carrie/Documents/maxim_stoma/geek_brains/homework/homework_9/task066_sumOfNumbersOfTheRange/obj/Debug/net6.0/task066_sumOfNumbersOfTheRange.AssemblyInfo.cs
+/Users/carrie/Documents/maxim_stoma/geek_brains/homework/homework_9/task066_sumOfNumbersOfTheRange/obj/Debug/net6.0/task066_sumOfNumbersOfTheRange.csproj.CoreCompileInputs.cache
+/Users/carrie/Documents/maxim_stoma/geek_brains/homework/homework_9/task066_sumOfNumbersOfTheRange/obj/Debug/net6.0/task066_sumOfNumbersOfTheRange.dll
+/Users/carrie/Documents/maxim_stoma/geek_brains/homework/homework_9/task066_sumOfNumbersOfTheRange/obj/Debug/net6.0/refint/task066_sumOfNumbersOfTheRange.dll
+/Users/carrie/Documents/maxim_stoma/geek_brains/homework/homework_9/task066_sumOfNumbersOfTheRange/obj/Debug/net6.0/task066_sumOfNumbersOfTheRange.pdb
+/Users/carrie/Documents/maxim_stoma/geek_brains/homework/homework_9/task066_sumOfNumbersOfTheRange/obj/Debug/net6.0/task066_sumOfNumbersOfTheRange.genruntimeconfig.cache
+/Users/carrie/Documents/maxim_stoma/geek_brains/homework/homework_9/task066_sumOfNumbersOfTheRange/obj/Debug/net6.0/ref/task066_sumOfNumbersOfTheRange.dll
