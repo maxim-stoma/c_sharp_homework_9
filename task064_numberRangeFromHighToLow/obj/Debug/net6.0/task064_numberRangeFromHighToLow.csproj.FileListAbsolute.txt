@@ -1,0 +1,15 @@
+/Users/carrie/Documents/maxim_stoma/geek_brains/homework/task064_numberRangeFromHighToLow/bin/Debug/net6.0/task064_numberRangeFromHighToLow
+/Users/carrie/Documents/maxim_stoma/geek_brains/homework/task064_numberRangeFromHighToLow/bin/Debug/net6.0/task064_numberRangeFromHighToLow.deps.json
+/Users/carrie/Documents/maxim_stoma/geek_brains/homework/task064_numberRangeFromHighToLow/bin/Debug/net6.0/task064_numberRangeFromHighToLow.runtimeconfig.json
+/Users/carrie/Documents/maxim_stoma/geek_brains/homework/task064_numberRangeFromHighToLow/bin/Debug/net6.0/task064_numberRangeFromHighToLow.dll
+/Users/carrie/Documents/maxim_stoma/geek_brains/homework/task064_numberRangeFromHighToLow/bin/Debug/net6.0/task064_numberRangeFromHighToLow.pdb
+/Users/carrie/Documents/maxim_stoma/geek_brains/homework/task064_numberRangeFromHighToLow/obj/Debug/net6.0/task064_numberRangeFromHighToLow.csproj.AssemblyReference.cache
+/Users/carrie/Documents/maxim_stoma/geek_brains/homework/task064_numberRangeFromHighToLow/obj/Debug/net6.0/task064_numberRangeFromHighToLow.GeneratedMSBuildEditorConfig.editorconfig
+/Users/carrie/Documents/maxim_stoma/geek_brains/homework/task064_numberRangeFromHighToLow/obj/Debug/net6.0/task064_numberRangeFromHighToLow.AssemblyInfoInputs.cache
+/Users/carrie/Documents/maxim_stoma/geek_brains/homework/task064_numberRangeFromHighToLow/obj/Debug/net6.0/task064_numberRangeFromHighToLow.AssemblyInfo.cs
+/Users/carrie/Documents/maxim_stoma/geek_brains/homework/task064_numberRangeFromHighToLow/obj/Debug/net6.0/task064_numberRangeFromHighToLow.csproj.CoreCompileInputs.cache
+/Users/carrie/Documents/maxim_stoma/geek_brains/homework/task064_numberRangeFromHighToLow/obj/Debug/net6.0/task064_numberRangeFromHighToLow.dll
+/Users/carrie/Documents/maxim_stoma/geek_brains/homework/task064_numberRangeFromHighToLow/obj/Debug/net6.0/refint/task064_numberRangeFromHighToLow.dll
+/Users/carrie/Documents/maxim_stoma/geek_brains/homework/task064_numberRangeFromHighToLow/obj/Debug/net6.0/task064_numberRangeFromHighToLow.pdb
+/Users/carrie/Documents/maxim_stoma/geek_brains/homework/task064_numberRangeFromHighToLow/obj/Debug/net6.0/task064_numberRangeFromHighToLow.genruntimeconfig.cache
+/Users/carrie/Documents/maxim_stoma/geek_brains/homework/task064_numberRangeFromHighToLow/obj/Debug/net6.0/ref/task064_numberRangeFromHighToLow.dll
