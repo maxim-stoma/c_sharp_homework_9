@@ -1,0 +1,15 @@
+/Users/carrie/Documents/maxim_stoma/geek_brains/homework/homework_9/task068_AckermannFunction/bin/Debug/net6.0/task068_AckermannFunction
+/Users/carrie/Documents/maxim_stoma/geek_brains/homework/homework_9/task068_AckermannFunction/bin/Debug/net6.0/task068_AckermannFunction.deps.json
+/Users/carrie/Documents/maxim_stoma/geek_brains/homework/homework_9/task068_AckermannFunction/bin/Debug/net6.0/task068_AckermannFunction.runtimeconfig.json
+/Users/carrie/Documents/maxim_stoma/geek_brains/homework/homework_9/task068_AckermannFunction/bin/Debug/net6.0/task068_AckermannFunction.dll
+/Users/carrie/Documents/maxim_stoma/geek_brains/homework/homework_9/task068_AckermannFunction/bin/Debug/net6.0/task068_AckermannFunction.pdb
+/Users/carrie/Documents/maxim_stoma/geek_brains/homework/homework_9/task068_AckermannFunction/obj/Debug/net6.0/task068_AckermannFunction.csproj.AssemblyReference.cache
+/Users/carrie/Documents/maxim_stoma/geek_brains/homework/homework_9/task068_AckermannFunction/obj/Debug/net6.0/task068_AckermannFunction.GeneratedMSBuildEditorConfig.editorconfig
+/Users/carrie/Documents/maxim_stoma/geek_brains/homework/homework_9/task068_AckermannFunction/obj/Debug/net6.0/task068_AckermannFunction.AssemblyInfoInputs.cache
+/Users/carrie/Documents/maxim_stoma/geek_brains/homework/homework_9/task068_AckermannFunction/obj/Debug/net6.0/task068_AckermannFunction.AssemblyInfo.cs
+/Users/carrie/Documents/maxim_stoma/geek_brains/homework/homework_9/task068_AckermannFunction/obj/Debug/net6.0/task068_AckermannFunction.csproj.CoreCompileInputs.cache
+/Users/carrie/Documents/maxim_stoma/geek_brains/homework/homework_9/task068_AckermannFunction/obj/Debug/net6.0/task068_AckermannFunction.dll
+/Users/carrie/Documents/maxim_stoma/geek_brains/homework/homework_9/task068_AckermannFunction/obj/Debug/net6.0/refint/task068_AckermannFunction.dll
+/Users/carrie/Documents/maxim_stoma/geek_brains/homework/homework_9/task068_AckermannFunction/obj/Debug/net6.0/task068_AckermannFunction.pdb
+/Users/carrie/Documents/maxim_stoma/geek_brains/homework/homework_9/task068_AckermannFunction/obj/Debug/net6.0/task068_AckermannFunction.genruntimeconfig.cache
+/Users/carrie/Documents/maxim_stoma/geek_brains/homework/homework_9/task068_AckermannFunction/obj/Debug/net6.0/ref/task068_AckermannFunction.dll
